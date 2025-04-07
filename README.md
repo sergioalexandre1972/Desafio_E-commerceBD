@@ -120,12 +120,13 @@ WHERE Codigo_rastreio IS NULL OR Codigo_rastreio = '';
 
 ## 📚 Autor
 
-**Desenvolvido por:** [Seu Nome Aqui]  
-**LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+**Desenvolvido por:** [Sérgio Alexandre]  
+**LinkedIn:** [https://www.linkedin.com/in/s-alexandre-silva-202a1984/inkedin.com/in/seu-perfil](https://linkedin.com/in/s-alexandre-silva-202a1984)  
 **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)
 
 ---
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## 📜 Licença
+Este projeto é de livre uso para aprendizado e desenvolvimento de sistemas de gerenciamento de E-commerce.
