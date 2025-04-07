@@ -122,11 +122,9 @@ WHERE Codigo_rastreio IS NULL OR Codigo_rastreio = '';
 
 **Desenvolvido por:** [Sérgio Alexandre]  
 **LinkedIn:** [https://www.linkedin.com/in/s-alexandre-silva-202a1984/inkedin.com/in/seu-perfil](https://linkedin.com/in/s-alexandre-silva-202a1984)  
-**GitHub:** [github.com/seuusuario](https://github.com/seuusuario)
 
 ---
 
 ## 📝 Licença
 
-## 📜 Licença
 Este projeto é de livre uso para aprendizado e desenvolvimento de sistemas de gerenciamento de E-commerce.
